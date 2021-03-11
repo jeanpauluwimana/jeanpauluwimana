@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeanpauluwimana
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine learning and predictive analytics
+- 👀 I’m interested in Machine Learning and Predictive Analytics
 - 💞️ I’m looking to collaborate on data science projects using supervised and unsupervised learning
 - 📫 How to reach me at JeanPaul.Uwimana@Gmail
 
